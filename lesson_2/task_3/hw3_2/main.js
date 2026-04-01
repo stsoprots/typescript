@@ -55,4 +55,5 @@ fetch('https://dummyjson.com/recipes')
         divBox.appendChild(div);
     }
 });
+export {};
 //# sourceMappingURL=main.js.map
